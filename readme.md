@@ -61,7 +61,7 @@
 </p>
 
 <p align="middle">
-  <img src="/origin1.gif" width="100" />
+  <img src="/origin2.gif" width="100" />
   <img src="/output_gif2/5000248_crop.gif" width="100" /> 
   <img src="/output_gif2/5000268.gif" width="100" />
     <img src="/output_gif2/5000269.gif" width="100" /> 
@@ -70,7 +70,7 @@
 </p>
 
 <p align="middle">
-  <img src="/origin1.gif" width="100" />
+  <img src="/origin4.gif" width="100" />
   <img src="/output_gif4/5000248_crop.gif" width="100" /> 
   <img src="/output_gif4/5000268.gif" width="100" />
     <img src="/output_gif4/5000269.gif" width="100" /> 
