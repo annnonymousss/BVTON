@@ -18,3 +18,19 @@
   <img src="/output_gif1/5000139.gif" width="100" />
       <img src="/output_gif1/5000220.gif" width="100" /> 
 </p>
+<p align="middle">
+  <img src="/origin2.gif" width="100" />
+  <img src="/output_gif2/5000012.gif" width="100" /> 
+  <img src="/output_gif2/5000015.gif" width="100" />
+    <img src="/output_gif2/5000053.gif" width="100" /> 
+  <img src="/output_gif2/5000139.gif" width="100" />
+      <img src="/output_gif2/5000220.gif" width="100" /> 
+</p>
+<p align="middle">
+  <img src="/origin4.gif" width="100" />
+  <img src="/output_gif4/5000012.gif" width="100" /> 
+  <img src="/output_gif4/5000015.gif" width="100" />
+    <img src="/output_gif4/5000053.gif" width="100" /> 
+  <img src="/output_gif4/5000139.gif" width="100" />
+      <img src="/output_gif4/5000220.gif" width="100" /> 
+</p>
