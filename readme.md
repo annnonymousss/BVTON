@@ -1,8 +1,8 @@
 ## High-Fidelity Virtual Try-on with Large-Scale Unpaired Learning
 
-![](/output_gif1/5000012.gif)   |  ![](/output_gif1/5000012.gif)
-:-------------------------:|:-------------------------:
-![](/output_gif1/5000012.gif)  |  ![](/output_gif1/5000012.gif)
+![](/output_gif1/5000012.gif)   |  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
+:-------------------------:|:-------------------------::|:-------------------------:
+![](/output_gif1/5000012.gif)  |  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
 
 
 <p align="middle">
