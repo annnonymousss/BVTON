@@ -1,10 +1,13 @@
 ## High-Fidelity Virtual Try-on with Large-Scale Unpaired Learning
 
- ![](/video_table.jpg)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/output_gif1/5000012.gif)  |  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
-![](/output_gif1/5000012.gif)  |  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
-![](/output_gif1/5000012.gif)  |  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)|  ![](/output_gif1/5000012.gif)
 
+<p align="middle">
+  <img src="/video_table.jpg" width="100" />
+  <img src="/output_gif1/5000012.gif" width="100" /> 
+  <img src="/output_gif1/5000012.gif" width="100" />
+    <img src="/output_gif1/5000012.gif" width="100" /> 
+  <img src="/output_gif1/5000012.gif" width="100" />
+      <img src="/output_gif1/5000012.gif" width="100" /> 
 
+</p>
 
