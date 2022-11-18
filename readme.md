@@ -1,8 +1,7 @@
 ## High-Fidelity Virtual Try-on with Large-Scale Unpaired Learning
 Please wait for loading !!!!!!!
 
-
-**NO TEMPORAL SMOOTHING**
+**Try-on is performed frame by frame without TEMPORAL SMOOTHING**
 
 # Clothes Set 1
 
