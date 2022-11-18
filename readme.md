@@ -1,6 +1,8 @@
 ## High-Fidelity Virtual Try-on with Large-Scale Unpaired Learning
 Please wait for loading !!!!!!!
-** NO TEMPORAL SMOOTHING **
+
+
+**NO TEMPORAL SMOOTHING**
 
 # Clothes Set 1
 
